@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "19e910aa8d0ff8d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "87be60e2c5325125",
+        "type": "tabs",
+        "dimension": 39.173789173789174,
+        "children": [
+          {
+            "id": "6b5ec826f499d44d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🍄‍🟫 NaCo/Lectures/2025-05-06 Lecture 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-06 Lecture 3"
+            }
+          },
+          {
+            "id": "d83e771cb1906b80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definition 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definition 3"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1309dec1d0724c2a",
+        "type": "tabs",
+        "dimension": 60.826210826210826,
+        "children": [
+          {
+            "id": "41529c9f0e5c5161",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "🍄‍🟫 NaCo/Lecture Slides/Lecture 03/naco-2025-05-06-preview.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "naco-2025-05-06-preview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "296e163c6892f318",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c5cc5835f1daade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4f892facc754072",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f4f8e966643d8f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "299d3d98a6b91422",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0cedcf226d46921b",
+    "type": "split",
+    "children": [
+      {
+        "id": "da337f41ef29967c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f06784154b83536f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Definition 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Definition 3"
+            }
+          },
+          {
+            "id": "67e0879e00f082e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🍄‍🟫 NaCo/Lectures/2025-05-06 Lecture 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-05-06 Lecture 3"
+            }
+          },
+          {
+            "id": "568c8ef4ad7fc658",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2c359421abde4f8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Definition 3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Definition 3"
+            }
+          },
+          {
+            "id": "935c7ec0310ad0d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d83e771cb1906b80",
+  "lastOpenFiles": [
+    "🍄‍🟫 NaCo/1. Definitions/Definition 1 (Agent).md",
+    "🍄‍🟫 NaCo/Lectures/2025-05-06 Lecture 3.md",
+    "Definition 3.md",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 03/naco-2025-05-06-preview.pdf",
+    "🍄‍🟫 NaCo/Images/Pasted image 20250506125216.png",
+    "🍄‍🟫 NaCo/Reading/Nature of Code.md",
+    "🍄‍🟫 NaCo/Images/Pasted image 20250506125047.png",
+    "🍄‍🟫 NaCo/Images/Pasted image 20250506125146.png",
+    "🍄‍🟫 NaCo/Images/Pasted image 20250506125159.png",
+    "🍄‍🟫 NaCo/Images/Pasted image 20250506125132.png",
+    "🍄‍🟫 NaCo/Images/Pasted image 20250506125124.png",
+    "🍄‍🟫 NaCo/Images/Pasted image 20250506125113.png",
+    "🍄‍🟫 NaCo/Images/Pasted image 20250506125104.png",
+    "🍄‍🟫 NaCo/Images/Pasted image 20250506125056.png",
+    "Welcome.md",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 03",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 02/naco-2025-04-29-scribbled.pdf",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 02/naco-2025-04-29-raw.pdf",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 02/naco-2025-04-29-preview.pdf",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 02",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 01/naco-2025-04-24-scribbled.pdf",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 01/naco-2025-04-24-preview.pdf",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 01/naco-2025-04-24-raw.pdf",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 01",
+    "🍄‍🟫 NaCo/Lectures/2025-01-28 Lecture 14.md",
+    "🍄‍🟫 NaCo/Lectures/2024-11-26 Lecture 07.md",
+    "🍄‍🟫 NaCo/Lectures/2025-01-21 Lecture 13.md",
+    "🍄‍🟫 NaCo/Lectures/2024-11-19 Lecture 06.md",
+    "🍄‍🟫 NaCo/Lectures/2024-12-05 Lecture 09.md",
+    "🍄‍🟫 NaCo/Lectures/2024-10-24 Lecture 03.md",
+    "🍄‍🟫 NaCo/Lectures/2024-11-12 Lecture 05.md",
+    "🍄‍🟫 NaCo/Lectures/2024-10-17 Lecture 02.md",
+    "🍄‍🟫 NaCo/Lectures/2024-11-05 Lecture 04.md",
+    "🍄‍🟫 NaCo/Lectures/2024-10-15 Lecture 01.md",
+    "🍄‍🟫 NaCo/Images/Pasted image 20250121123407.png",
+    "🍄‍🟫 NaCo/Exercise/Übung 16.01.25.md",
+    "🍄‍🟫 NaCo/Exams/Thoughts - mock exam.md",
+    "🍄‍🟫 NaCo/Exams/Thoughts - 2023-ws-coin-linhoff_popien-probe-klausur-20.md",
+    "🍄‍🟫 NaCo/Exams/Thoughts - 2023-ws-coin-linhoff_popien-klausur-19.md",
+    "🍄‍🟫 NaCo/Exams/Thoughts - 2022-ws-coin-gabor-1.klausur-17.md",
+    "🍄‍🟫 NaCo/3. Theorems/Theorem 3.md",
+    "🍄‍🟫 NaCo/3. Theorems/Theorem 4 (Nash's Theorem).md",
+    "🍄‍🟫 NaCo/3. Theorems/Theorem 2 (Kolmogorov-Arnold representation 2).md",
+    "🍄‍🟫 NaCo/3. Theorems/Theorem 1 (no free lunch).md",
+    "🍄‍🟫 NaCo/2. Algorithms/Algorithm 6 (gradient descent (policy)).md",
+    "🍄‍🟫 NaCo/2. Algorithms/Algorithm 5 (gradient descent).md"
+  ]
+}

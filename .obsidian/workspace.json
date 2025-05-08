@@ -6,7 +6,7 @@
       {
         "id": "87be60e2c5325125",
         "type": "tabs",
-        "dimension": 39.173789173789174,
+        "dimension": 43.09116809116809,
         "children": [
           {
             "id": "6b5ec826f499d44d",
@@ -28,21 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definition 3.md",
+                "file": "🍄‍🟫 NaCo/Exercise/Ex1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definition 3"
+              "title": "Ex1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1309dec1d0724c2a",
         "type": "tabs",
-        "dimension": 60.826210826210826,
+        "dimension": 56.908831908831914,
         "children": [
           {
             "id": "41529c9f0e5c5161",
@@ -50,10 +49,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "🍄‍🟫 NaCo/Lecture Slides/Lecture 03/naco-2025-05-06-preview.pdf"
+                "file": "🍄‍🟫 NaCo/Lecture Slides/Lecture 01/naco-2025-04-24-scribbled.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "naco-2025-05-06-preview"
+              "title": "naco-2025-04-24-scribbled"
             }
           }
         ]
@@ -214,12 +213,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d83e771cb1906b80",
+  "active": "6b5ec826f499d44d",
   "lastOpenFiles": [
-    "🍄‍🟫 NaCo/1. Definitions/Definition 1 (Agent).md",
-    "🍄‍🟫 NaCo/Lectures/2025-05-06 Lecture 3.md",
-    "Definition 3.md",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 01/naco-2025-04-24-scribbled.pdf",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 02/naco-2025-04-29-scribbled.pdf",
     "🍄‍🟫 NaCo/Lecture Slides/Lecture 03/naco-2025-05-06-preview.pdf",
+    "🍄‍🟫 NaCo/Lectures/2025-05-06 Lecture 3.md",
+    "Untitled.md",
+    "🍄‍🟫 NaCo/Exercise/Ex1.md",
+    "🍄‍🟫 NaCo/Exercise Materials/Exercise 0 (Python Tutorial)/python_code_golf_solution.py",
+    "🍄‍🟫 NaCo/Exercise Materials/Exercise 0 (Python Tutorial)/Python-Crashkurs (German).pdf",
+    "🍄‍🟫 NaCo/Exercise Materials/Exercise 0 (Python Tutorial)/python_code_golf.py",
+    "🍄‍🟫 NaCo/Exercise Materials/Exercise 0 (Python Tutorial)/naco-python.pdf",
+    "🍄‍🟫 NaCo/Exercise Materials/Exercise 0 (Python Tutorial)",
+    "🍄‍🟫 NaCo/Exercise Materials/Exercise Material-20250508/Exercise 0 (Python Tutorial)/Python-Crashkurs (German).pdf",
+    "🍄‍🟫 NaCo/Exercise Materials/Exercise Material-20250508/Exercise 0 (Python Tutorial)/python_code_golf.py",
+    "🍄‍🟫 NaCo/Exercise Materials/Exercise Material-20250508/Exercise 0 (Python Tutorial)/python_code_golf_solution.py",
+    "Definition 3.md",
+    "🍄‍🟫 NaCo/1. Definitions/Definition 1 (Agent).md",
     "🍄‍🟫 NaCo/Images/Pasted image 20250506125216.png",
     "🍄‍🟫 NaCo/Reading/Nature of Code.md",
     "🍄‍🟫 NaCo/Images/Pasted image 20250506125047.png",
@@ -231,15 +242,6 @@
     "🍄‍🟫 NaCo/Images/Pasted image 20250506125104.png",
     "🍄‍🟫 NaCo/Images/Pasted image 20250506125056.png",
     "Welcome.md",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 03",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 02/naco-2025-04-29-scribbled.pdf",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 02/naco-2025-04-29-raw.pdf",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 02/naco-2025-04-29-preview.pdf",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 02",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 01/naco-2025-04-24-scribbled.pdf",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 01/naco-2025-04-24-preview.pdf",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 01/naco-2025-04-24-raw.pdf",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 01",
     "🍄‍🟫 NaCo/Lectures/2025-01-28 Lecture 14.md",
     "🍄‍🟫 NaCo/Lectures/2024-11-26 Lecture 07.md",
     "🍄‍🟫 NaCo/Lectures/2025-01-21 Lecture 13.md",
@@ -258,9 +260,6 @@
     "🍄‍🟫 NaCo/Exams/Thoughts - 2022-ws-coin-gabor-1.klausur-17.md",
     "🍄‍🟫 NaCo/3. Theorems/Theorem 3.md",
     "🍄‍🟫 NaCo/3. Theorems/Theorem 4 (Nash's Theorem).md",
-    "🍄‍🟫 NaCo/3. Theorems/Theorem 2 (Kolmogorov-Arnold representation 2).md",
-    "🍄‍🟫 NaCo/3. Theorems/Theorem 1 (no free lunch).md",
-    "🍄‍🟫 NaCo/2. Algorithms/Algorithm 6 (gradient descent (policy)).md",
-    "🍄‍🟫 NaCo/2. Algorithms/Algorithm 5 (gradient descent).md"
+    "🍄‍🟫 NaCo/3. Theorems/Theorem 2 (Kolmogorov-Arnold representation 2).md"
   ]
 }

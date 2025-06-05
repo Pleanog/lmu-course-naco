@@ -4,42 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "87be60e2c5325125",
+        "id": "0063082a5547dfb8",
         "type": "tabs",
-        "dimension": 52.05399061032864,
+        "dimension": 53.942115768463076,
         "children": [
           {
-            "id": "6b5ec826f499d44d",
+            "id": "01c980cdcb81704e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "🍄‍🟫 NaCo/Exercise Materials/Exercise 01 (Cellular Automata)/exercise_01.pdf"
+                "file": "🍄‍🟫 NaCo/Lecture Slides/Lecture Slides-20250515/Lecture 04/naco-2025-05-13-preview.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "exercise_01"
+              "title": "naco-2025-05-13-preview"
             }
           },
           {
-            "id": "d83e771cb1906b80",
+            "id": "7f4306f2169b8b39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "🍄‍🟫 NaCo/Exercise/Ex0.md",
-                "mode": "source",
-                "source": false
+                "file": "🍄‍🟫 NaCo/Lecture Slides/Lecture Slides-20250515/naco-2025-05-20-preview.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Ex0"
+              "icon": "lucide-file-text",
+              "title": "naco-2025-05-20-preview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1309dec1d0724c2a",
         "type": "tabs",
-        "dimension": 47.94600938967136,
+        "dimension": 46.057884231536924,
         "children": [
           {
             "id": "41529c9f0e5c5161",
@@ -68,9 +67,37 @@
               "icon": "lucide-file",
               "title": "Ex01"
             }
+          },
+          {
+            "id": "c5010dffa97d90f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-05-20 Lecture 05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-20 Lecture 05"
+            }
+          },
+          {
+            "id": "4d771dc5c60458d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-05-13 Lecture 04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2023-05-13 Lecture 04"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0cedcf226d46921b",
@@ -229,13 +255,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dc58286fa103b9e",
+  "active": "4d771dc5c60458d6",
   "lastOpenFiles": [
+    "Pasted image 20250520132508.png",
+    "Pasted image 20250520132456.png",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture Slides-20250515/naco-2025-05-20-preview.pdf",
+    "2023-05-13 Lecture 04.md",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture Slides-20250515/Lecture 03/naco-2025-05-06-preview.pdf",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture Slides-20250515/Lecture 04/naco-2025-05-13-preview.pdf",
+    "🍄‍🟫 NaCo/1. Definitions/Definition 1 (Agent).md",
+    "2025-05-20 Lecture 05.md",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture Slides-20250515/naco-2025-05-20-preview.pdf.crdownload",
+    "Untitled.md",
+    "Ex01.md",
     "Pasted image 20250515131041.png",
     "Pasted image 20250515130318.png",
     "Pasted image 20250515130131.png",
     "🍄‍🟫 NaCo/Exercise/Ex0.md",
-    "Ex01.md",
     "🍄‍🟫 NaCo/Exercise Materials/Exercise 01 (Cellular Automata)/exercise_01.pdf",
     "🍄‍🟫 NaCo/Lectures/2025-05-06 Lecture 3.md",
     "🍄‍🟫 NaCo/Exercise Materials/Exercise 0 (Python Tutorial)/python_code_golf_solution.py",
@@ -243,12 +279,7 @@
     "🍄‍🟫 NaCo/Exercise Materials/Exercise 0 (Python Tutorial)/Python-Crashkurs (German).pdf",
     "🍄‍🟫 NaCo/Exercise Materials/Exercise 0 (Python Tutorial)/naco-python.pdf",
     "🍄‍🟫 NaCo/Exercise Materials/Exercise 0 (Python Tutorial)",
-    "🍄‍🟫 NaCo/Exercise Materials/Exercise 01 (Cellular Automata)/ca_game.py",
-    "🍄‍🟫 NaCo/Exercise Materials/Exercise 01 (Cellular Automata)",
-    "🍄‍🟫 NaCo/Exercise Materials/Exercise Material-20250515/Exercise 01 (Cellular Automata)/exercise_01.pdf",
-    "🍄‍🟫 NaCo/Exercise Materials/Exercise Material-20250515/Exercise 01 (Cellular Automata)/ca_game.py",
     "Definition 3.md",
-    "🍄‍🟫 NaCo/1. Definitions/Definition 1 (Agent).md",
     "🍄‍🟫 NaCo/Images/Pasted image 20250506125216.png",
     "🍄‍🟫 NaCo/Reading/Nature of Code.md",
     "🍄‍🟫 NaCo/Images/Pasted image 20250506125047.png",
@@ -256,8 +287,6 @@
     "🍄‍🟫 NaCo/Images/Pasted image 20250506125159.png",
     "🍄‍🟫 NaCo/Images/Pasted image 20250506125132.png",
     "🍄‍🟫 NaCo/Images/Pasted image 20250506125124.png",
-    "🍄‍🟫 NaCo/Images/Pasted image 20250506125113.png",
-    "🍄‍🟫 NaCo/Images/Pasted image 20250506125104.png",
     "Welcome.md",
     "🍄‍🟫 NaCo/Lectures/2025-01-28 Lecture 14.md",
     "🍄‍🟫 NaCo/Lectures/2024-11-26 Lecture 07.md",
@@ -273,9 +302,6 @@
     "🍄‍🟫 NaCo/Exams/Thoughts - mock exam.md",
     "🍄‍🟫 NaCo/Exams/Thoughts - 2023-ws-coin-linhoff_popien-probe-klausur-20.md",
     "🍄‍🟫 NaCo/Exams/Thoughts - 2023-ws-coin-linhoff_popien-klausur-19.md",
-    "🍄‍🟫 NaCo/Exams/Thoughts - 2022-ws-coin-gabor-1.klausur-17.md",
-    "🍄‍🟫 NaCo/3. Theorems/Theorem 3.md",
-    "🍄‍🟫 NaCo/3. Theorems/Theorem 4 (Nash's Theorem).md",
-    "🍄‍🟫 NaCo/3. Theorems/Theorem 2 (Kolmogorov-Arnold representation 2).md"
+    "🍄‍🟫 NaCo/Exams/Thoughts - 2022-ws-coin-gabor-1.klausur-17.md"
   ]
 }

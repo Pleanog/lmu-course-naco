@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🍄‍🟫 NaCo/Reading/Nature of Code.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nature of Code"
+              "title": "README"
             }
           }
         ],
@@ -278,8 +278,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4f892facc754072",
+  "active": "e18a133c96dd6c0b",
   "lastOpenFiles": [
+    "🍄‍🟫 NaCo/Reading/Nature of Code.md",
     "README.md",
     "🍄‍🟫 NaCo/Stuff/🤖 Promt.md",
     "🍄‍🟫 NaCo/Stuff",
@@ -320,7 +321,6 @@
     "🍄‍🟫 NaCo/1. Definitions/Definition 1 (Agent).md",
     "🍄‍🟫 NaCo/Images/Pasted image 20250515131041.png",
     "🍄‍🟫 NaCo/Exercise/Ex0.md",
-    "🍄‍🟫 NaCo/Reading/Nature of Code.md",
     "Welcome.md",
     "🍄‍🟫 NaCo/Lectures/2025-01-28 Lecture 14.md",
     "🍄‍🟫 NaCo/Lectures/2024-11-26 Lecture 07.md",

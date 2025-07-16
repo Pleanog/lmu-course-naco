@@ -1,4 +1,3 @@
-
 Ich werde dir PDF-Dateien mit **Vorlesungsfolien oder wissenschaftlichen Präsentationen** schicken. Du bekommst ebenso evtl. Mitschriften von mir. Diese hänge ich weiter unten an. Dort referenziere ich evtl Bilder / Grafik, diese Referenzen sollst Du übernehmen! In meinen Notizen sind auch evtl. weitere Anweisungen an Dich!
 Bitte erstelle daraus ausführliche **Study Notes als Markdown-Datei** auf **Englisch** unter Berücksichtigung folgender Anforderungen:
 

@@ -6,7 +6,7 @@
       {
         "id": "93d53a36a98f1a00",
         "type": "tabs",
-        "dimension": 37.042606516290725,
+        "dimension": 48.795648795648795,
         "children": [
           {
             "id": "238be4f6dd8778f2",
@@ -23,104 +23,82 @@
         ]
       },
       {
-        "id": "39fbd3a86a499fcf",
-        "type": "tabs",
-        "dimension": 29.624060150375943,
+        "id": "77cdc97123c414e3",
+        "type": "split",
+        "dimension": 51.204351204351205,
         "children": [
           {
-            "id": "05f1e2bd20de10ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍄‍🟫 NaCo/Exercise/Ex 03.md",
-                "mode": "source",
-                "source": false
+            "id": "daf7c894d3e4643f",
+            "type": "tabs",
+            "dimension": 80.4245283018868,
+            "children": [
+              {
+                "id": "b96ca0448309aa79",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🍄‍🟫 NaCo/Lectures/2025-06-26 Lecture 10.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-06-26 Lecture 10"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Ex 03"
-            }
+              {
+                "id": "5e4bf5b5841d7b8f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🍄‍🟫 NaCo/2. Algorithms/Algorithm 5 (Simulated Annealing with Local Gradien Descent).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Algorithm 5 (Simulated Annealing with Local Gradien Descent)"
+                }
+              },
+              {
+                "id": "ba1350f07a9b8306",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🍄‍🟫 NaCo/2. Algorithms/Algorithm 2 (stochastic hill climbing).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Algorithm 2 (stochastic hill climbing)"
+                }
+              }
+            ]
           },
           {
-            "id": "2468034e120df021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍄‍🟫 NaCo/Exercise/Ex01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ex01"
-            }
-          },
-          {
-            "id": "619e5a60b4bcf5dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍄‍🟫 NaCo/Stuff/🤖 Promt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🤖 Promt"
-            }
-          },
-          {
-            "id": "513240d1f9275e39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍄‍🟫 NaCo/Lectures/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
+            "id": "5ac9435def90bdeb",
+            "type": "tabs",
+            "dimension": 19.57547169811321,
+            "children": [
+              {
+                "id": "619e5a60b4bcf5dc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🍄‍🟫 NaCo/Stuff/🤖 Promt.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "🤖 Promt"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "daf7c894d3e4643f",
-        "type": "tabs",
-        "dimension": 33.33333333333333,
-        "children": [
-          {
-            "id": "a5055048277922f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🍄‍🟫 NaCo/Lectures/2025-05-20 Lecture 05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-20 Lecture 05"
-            }
-          },
-          {
-            "id": "e18a133c96dd6c0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -177,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5110321044922
+    "width": 426.501522064209
   },
   "right": {
     "id": "0cedcf226d46921b",
@@ -278,52 +256,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e18a133c96dd6c0b",
+  "active": "238be4f6dd8778f2",
   "lastOpenFiles": [
-    "🍄‍🟫 NaCo/Reading/Nature of Code.md",
-    "README.md",
+    "🍄‍🟫 NaCo/Lectures/2025-06-26 Lecture 10.md",
+    "🍄‍🟫 NaCo/Lecture Slides/naco-2025-06-26-preview.pdf",
+    "🍄‍🟫 NaCo/2. Algorithms/Algorithm 4 (Gradient Descent).md",
+    "algorithm.md",
+    "🍄‍🟫 NaCo/3. Theorems/Theorem 1 (no free lunch).md",
+    "🍄‍🟫 NaCo/Lectures/2025-05-27 Lecture 06.md",
+    "🍄‍🟫 NaCo/2. Algorithms/Algorithm 5 (Simulated Annealing with Local Gradien Descent).md",
+    "🍄‍🟫 NaCo/2. Algorithms/Algorithm 3 (Simulated Annealing).md",
+    "Pasted image 20250716222312.png",
+    "Pasted image 20250716222200.png",
+    "🍄‍🟫 NaCo/2. Algorithms/Algorithm 1 (Simgle-Sample Random Search).md",
+    "🍄‍🟫 NaCo/2. Algorithms/Algorithm 2 (stochastic hill climbing).md",
+    "🍄‍🟫 NaCo/Exercise Materials/Exercise 01 (Cellular Automata)/exercise_01.pdf",
     "🍄‍🟫 NaCo/Stuff/🤖 Promt.md",
+    "🍄‍🟫 NaCo/Exercise Materials/Exercise 02 (Game of Life)/exercise_02.pdf",
+    "Pasted image 20250716191101.png",
+    "🍄‍🟫 NaCo/Lectures/2025-06-12 Lecture 08.md",
+    "🍄‍🟫 NaCo/Exercise/Ex01.md",
+    "🍄‍🟫 NaCo/Lectures/Untitled.md",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 08/naco-2025-06-12-scribbled.pdf",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 09/naco-2025-06-17-scribbled.pdf",
+    "🍄‍🟫 NaCo/Lectures/2025-06-03 Lecture 07.md",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 07/naco-2025-06-03-scribbled.pdf",
+    "🍄‍🟫 NaCo/Lecture Slides/Lecture 06/naco-2025-05-27-scribbled.pdf",
+    "🍄‍🟫 NaCo/Lectures/2025-05-20 Lecture 05.md",
+    "README.md",
+    "🍄‍🟫 NaCo/Reading/Nature of Code.md",
     "🍄‍🟫 NaCo/Stuff",
     "🍄‍🟫 NaCo/1. Definitions/Definition 3.md",
     "🍄‍🟫 NaCo/Images/Pasted image 20250515130131.png",
-    "🍄‍🟫 NaCo/Lectures/2025-06-12 Lecture 08.md",
-    "🍄‍🟫 NaCo/Lecture Slides/naco-2025-06-26-preview.pdf",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 09/naco-2025-06-17-scribbled.pdf",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 08/naco-2025-06-12-scribbled.pdf",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 07/naco-2025-06-03-scribbled.pdf",
-    "🍄‍🟫 NaCo/Lectures/2025-06-03 Lecture 07.md",
-    "🍄‍🟫 NaCo/Lectures/2025-05-27 Lecture 06.md",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 06/naco-2025-05-27-scribbled.pdf",
     "🍄‍🟫 NaCo/Lecture Slides/Lecture 05/naco-2025-05-20-raw.pdf",
-    "🍄‍🟫 NaCo/Lectures/2025-05-20 Lecture 05.md",
     "🍄‍🟫 NaCo/Images/Pasted image 20250714212148.png",
     "🍄‍🟫 NaCo/Lecture Slides/Lecture 05/naco-2025-05-20-scribbled.pdf",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 04/naco-2025-05-13-scribbled.pdf",
     "🍄‍🟫 NaCo/Lectures/2025-05-13 Lecture 04.md",
     "🍄‍🟫 NaCo/Images/Pasted image 20250714210933.png",
     "🍄‍🟫 NaCo/Images/Pasted image 20250714210913.png",
     "🍄‍🟫 NaCo/Images/Pasted image 20250714210846.png",
-    "🍄‍🟫 NaCo/Lecture Slides/Lecture 04/naco-2025-05-13-preview.pdf",
     "🍄‍🟫 NaCo/Lectures/2025-05-06 Lecture 03.md",
     "🍄‍🟫 NaCo/Lectures/2025-04-25 Lecture 02.md",
-    "🍄‍🟫 NaCo/Lectures/Untitled.md",
     "🍄‍🟫 NaCo/Images/Pasted image 20250714205853.png",
     "🍄‍🟫 NaCo/Exercise/Ex 03.md",
-    "🍄‍🟫 NaCo/Lectures/2025-06-26 Lecture 10.md",
     "🍄‍🟫 NaCo/Exercise/exercise 06.md",
     "🍄‍🟫 NaCo/Exercise/Ex02.md",
-    "🍄‍🟫 NaCo/Exercise/Ex01.md",
     "Feedbackformular zu den Seiten der Website der Kreisverwaltung Donnersbergkreis.md",
-    "🍄‍🟫 NaCo/Images/Pasted image 20250520132508.png",
-    "PSK Gegenüberstellungs-Tabelle.md",
-    "🍄‍🟫 NaCo/Images/Pasted image 20250515130318.png",
-    "🍄‍🟫 NaCo/Images/Pasted image 20250520132456.png",
-    "🍄‍🟫 NaCo/1. Definitions/Definition 1 (Agent).md",
-    "🍄‍🟫 NaCo/Images/Pasted image 20250515131041.png",
-    "🍄‍🟫 NaCo/Exercise/Ex0.md",
-    "Welcome.md",
-    "🍄‍🟫 NaCo/Lectures/2025-01-28 Lecture 14.md",
-    "🍄‍🟫 NaCo/Lectures/2024-11-26 Lecture 07.md",
-    "🍄‍🟫 NaCo/Lectures/2025-01-21 Lecture 13.md"
+    "🍄‍🟫 NaCo/Images/Pasted image 20250520132508.png"
   ]
 }

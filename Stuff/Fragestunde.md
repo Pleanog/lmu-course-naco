@@ -3,6 +3,8 @@
 
 # 3
 
+both solutions would be correct, right?
+
 1. 0 --H--x--
 2. 0 ------|--
 3. 0 ---------

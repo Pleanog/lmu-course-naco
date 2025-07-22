@@ -4,50 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "09ddbb7cc086b4a6",
+        "id": "5d250a71136a2a65",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "c89263c8afd83af2",
+            "id": "25c3efd79cf4957f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "🍄‍🟫 NaCo/Exams/2022-ss-naco-gabor-zorn-nach-klausur-loesung-22.pdf"
+                "file": "Lecture Slides/Lecture 14/naco-2025-07-22-preview.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2022-ss-naco-gabor-zorn-nach-klausur-loesung-22"
-            }
-          },
-          {
-            "id": "ea2b862e14079fcf",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "🍄‍🟫 NaCo/Exams/2022-ss-gabor-nc-1.klausur-loesung-18.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2022-ss-gabor-nc-1.klausur-loesung-18"
+              "title": "naco-2025-07-22-preview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "daf7c894d3e4643f",
+        "id": "2a55217d2242873f",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "5520c026bc3f9cd7",
+            "id": "b7cb8c0f0947dc51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/2025-07-22 Lecture 14.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-07-22 Lecture 14"
             }
           }
         ]
@@ -107,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.501522064209
+    "width": 351.501522064209,
+    "collapsed": true
   },
   "right": {
     "id": "0cedcf226d46921b",
@@ -208,32 +198,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5520c026bc3f9cd7",
+  "active": "b7cb8c0f0947dc51",
   "lastOpenFiles": [
-    "🍄‍🟫 NaCo/Exercise/ex03.md",
-    "🍄‍🟫 NaCo/Stuff/Fragestunde.md",
+    "Lectures/2025-05-20 Lecture 05.md",
+    "Lecture Slides/Lecture 14/naco-2025-07-22-preview.pdf",
+    "Lectures/2025-07-22 Lecture 14.md",
+    "Lecture Slides/Lecture 14",
+    "Lecture Slides/Lecture 13/naco-2025-07-15-raw.pdf",
+    "Lecture Slides/Lecture 13/naco-2025-07-15-preview.pdf",
+    "Lecture Slides/Lecture 13/naco-2025-07-15-scribbled.pdf",
+    "Lecture Slides/Lecture 13",
+    "Lecture Slides/Lecture 12/naco-2025-07-08-raw.pdf",
+    "Lecture Slides/Lecture 12/naco-2025-07-08-scribbled.pdf",
+    "Lecture Slides/Lecture 12/naco-2025-07-08-preview.pdf",
+    "Lecture Slides/Lecture 12",
+    "Lectures/2025-04-25 Lecture 02.md",
     "Stuff/🤖 Promt.md",
     "Stuff/Fragestunde.md",
-    "Stuff",
+    "🍄‍🟫 NaCo/Exercise/ex03.md",
+    "🍄‍🟫 NaCo/Stuff/Fragestunde.md",
     "Reading/Nature of Code.md",
-    "Reading",
     "Lectures/Untitled.md",
     "Lectures/2025-06-03 Lecture 07.md",
     "Lectures/2025-06-26 Lecture 10.md",
     "Lectures/2025-06-12 Lecture 08.md",
     "Lectures/2025-05-27 Lecture 06.md",
-    "Lectures/2025-04-25 Lecture 02.md",
-    "Lectures/2025-05-20 Lecture 05.md",
     "Lectures/2025-05-06 Lecture 03.md",
     "Lectures/2025-05-13 Lecture 04.md",
-    "Lectures",
-    "Lecture Slides/Lecture 08/naco-2025-06-12-scribbled.pdf",
-    "Lecture Slides/Lecture 08/naco-2025-06-12-raw.pdf",
-    "Lecture Slides/Lecture 09/naco-2025-06-17-scribbled.pdf",
-    "Lecture Slides/Lecture 08/naco-2025-06-12-preview.pdf",
-    "Lecture Slides/Lecture 09/naco-2025-06-17-raw.pdf",
-    "Lecture Slides/Lecture 07/naco-2025-06-03-scribbled.pdf",
-    "Lecture Slides/Lecture 09/naco-2025-06-17-preview.pdf",
     "Images/Pasted image 20250721201305.png",
     "Images/Pasted image 20250721200958.png",
     "Images/Pasted image 20250721202120.png",
@@ -253,8 +244,6 @@
     "Exercise/ex03.md",
     "Exams/My-Slutions/Exam2022-18.md",
     "Exams/My-Slutions/exam 2024-07-17.md",
-    "Exams/My-Slutions/exam 2020-11-08.md",
-    "Exams/My-Slutions/exam 2023-07-17.md",
-    "3. Theorems/Theorem 1 (no free lunch).md"
+    "Exams/My-Slutions/exam 2020-11-08.md"
   ]
 }

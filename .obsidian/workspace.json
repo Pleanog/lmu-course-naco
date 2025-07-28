@@ -4,39 +4,176 @@
     "type": "split",
     "children": [
       {
-        "id": "5d250a71136a2a65",
+        "id": "3d2344c417ef2d3f",
         "type": "tabs",
+        "dimension": 59.95985950827898,
         "children": [
           {
-            "id": "25c3efd79cf4957f",
+            "id": "3a87726c4c93a233",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Slides/Lecture 14/naco-2025-07-22-preview.pdf"
+                "file": "Exams/2023-ss-naco-gabor-zorn-klausur.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "naco-2025-07-22-preview"
+              "title": "2023-ss-naco-gabor-zorn-klausur"
+            }
+          },
+          {
+            "id": "0fd0c2a381bfe41a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exams/2024-ss-naco-gabor-klausur-loesung.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2024-ss-naco-gabor-klausur-loesung"
+            }
+          },
+          {
+            "id": "21c92464e1306b1d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exams/2024-ss-naco-gabor-zorn-nach-klausur.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2024-ss-naco-gabor-zorn-nach-klausur"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "2a55217d2242873f",
         "type": "tabs",
+        "dimension": 40.04014049172102,
         "children": [
           {
-            "id": "b7cb8c0f0947dc51",
+            "id": "d4b0730db31150e9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Exams/2024-ss-naco-gabor-zorn-nach-klausur-loesung.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2024-ss-naco-gabor-zorn-nach-klausur-loesung"
+            }
+          },
+          {
+            "id": "fbef1197530fb29d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/2025-07-22 Lecture 14.md",
+                "file": "Exams/My-Slutions/exam a.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-22 Lecture 14"
+              "title": "exam a"
+            }
+          },
+          {
+            "id": "73731dc1d8745df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/My-Slutions/exam b.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exam b"
+            }
+          },
+          {
+            "id": "30ad9453b40d081d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/My-Slutions/exam 2022-07-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exam 2022-07-26"
+            }
+          },
+          {
+            "id": "690047c7a13c2626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/My-Slutions/exam 2022-11-08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exam 2022-11-08"
+            }
+          },
+          {
+            "id": "9bb2c483505910f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/My-Slutions/exam 2023-07-17 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exam 2023-07-17 1"
+            }
+          },
+          {
+            "id": "30f427d852ed0fe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stuff/Entangled or not Entangled Q-Bits - Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entangled or not Entangled Q-Bits - Cheat Sheet"
+            }
+          },
+          {
+            "id": "85abcf5ead4ff634",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/My-Slutions/exam 2024-07-17 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exam 2024-07-17 1"
+            }
+          },
+          {
+            "id": "5bdf56d73ebc588e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exams/My-Slutions/exam 2022-07-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exam 2022-07-26"
             }
           }
         ]
@@ -96,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.501522064209,
+    "width": 421.501522064209,
     "collapsed": true
   },
   "right": {
@@ -198,23 +335,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7cb8c0f0947dc51",
+  "active": "21c92464e1306b1d",
   "lastOpenFiles": [
-    "Lectures/2025-05-20 Lecture 05.md",
-    "Lecture Slides/Lecture 14/naco-2025-07-22-preview.pdf",
+    "Exams/2024-ss-naco-gabor-zorn-nach-klausur-loesung.pdf",
+    "Exams/2022-ss-naco-gabor-zorn-nach-klausur-22.pdf",
+    "Exams/2024-ss-naco-gabor-zorn-nach-klausur.pdf",
+    "Exams/2024-ss-naco-gabor-klausur-loesung.pdf",
+    "Exams/2025-ss-naco-gabor-zorn-probe-klausur-a.pdf",
+    "Exams/2024-ss-naco-gabor-probe-klausur.pdf",
+    "Exams/2024-ss-naco-gabor-probe-klausur-loesung.pdf",
+    "Exams/My-Slutions/exam 2022-07-26.md",
+    "Exams/My-Slutions/exam 2020-11-08.md",
+    "Exercise Materials/Exercise 04 (Quantum 2)/exercise_04.pdf",
+    "Exams/My-Slutions/exam 2024-07-16.md",
+    "Images/Pasted image 20250722124010.png",
+    "Stuff/Entangled or not Entangled Q-Bits - Cheat Sheet.md",
+    "Stuff/Entangled or not Entangled Q-Bits - Cheat Sheet.pdf",
+    "Exams/My-Slutions/exam 2024-07-17 1.md",
+    "Exams/2024-ss-naco-gabor-klausur.pdf",
+    "Exams/2025-ss-naco-gabor-zorn-probe-klausur-b.pdf",
+    "Exams/My-Slutions/exam 2023-07-17 1.md",
+    "Exams/My-Slutions/exam 2022-11-08.md",
+    "Images/Pasted image 20250727190446.png",
+    "Images/Pasted image 20250727183249.png",
+    "Images/Pasted image 20250727183243.png",
+    "Exams/My-Slutions/exam a.md",
+    "Exams/My-Slutions/exam b.md",
+    "Images/Pasted image 20250726160047.png",
+    "Stuff/Fragestunde.md",
     "Lectures/2025-07-22 Lecture 14.md",
-    "Lecture Slides/Lecture 14",
-    "Lecture Slides/Lecture 13/naco-2025-07-15-raw.pdf",
-    "Lecture Slides/Lecture 13/naco-2025-07-15-preview.pdf",
-    "Lecture Slides/Lecture 13/naco-2025-07-15-scribbled.pdf",
-    "Lecture Slides/Lecture 13",
-    "Lecture Slides/Lecture 12/naco-2025-07-08-raw.pdf",
-    "Lecture Slides/Lecture 12/naco-2025-07-08-scribbled.pdf",
-    "Lecture Slides/Lecture 12/naco-2025-07-08-preview.pdf",
-    "Lecture Slides/Lecture 12",
+    "Images/Pasted image 20250722130340.png",
+    "Images/Pasted image 20250722124851.png",
+    "Lectures/2025-05-20 Lecture 05.md",
     "Lectures/2025-04-25 Lecture 02.md",
     "Stuff/🤖 Promt.md",
-    "Stuff/Fragestunde.md",
     "🍄‍🟫 NaCo/Exercise/ex03.md",
     "🍄‍🟫 NaCo/Stuff/Fragestunde.md",
     "Reading/Nature of Code.md",
@@ -228,22 +382,6 @@
     "Images/Pasted image 20250721201305.png",
     "Images/Pasted image 20250721200958.png",
     "Images/Pasted image 20250721202120.png",
-    "Images/Pasted image 20250721201028.png",
-    "Images/Pasted image 20250721191741.png",
-    "Images/Pasted image 20250721191647.png",
-    "Images/Pasted image 20250719195046.png",
-    "Images/Pasted image 20250714212148.png",
-    "Images/Pasted image 20250719195032.png",
-    "Images/Pasted image 20250716222312.png",
-    "Exercise/exercise 06.md",
-    "Exercise/ex07.md",
-    "Exercise/Ex02.md",
-    "Exercise/Ex01.md",
-    "Exercise/ex05.md",
-    "Exercise/Ex0.md",
-    "Exercise/ex03.md",
-    "Exams/My-Slutions/Exam2022-18.md",
-    "Exams/My-Slutions/exam 2024-07-17.md",
-    "Exams/My-Slutions/exam 2020-11-08.md"
+    "Exercise/exercise 06.md"
   ]
 }
